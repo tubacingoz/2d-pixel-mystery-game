@@ -1,7 +1,7 @@
 # 2D Pixel Mystery & Farming RPG: Concept & UI/UX Design
 
 **Project Overview & Vision**
-This repository serves as the core Game Design Document (GDD) and UI/UX asset library for an upcoming 2D pixel art indie game. Blending resource-management mechanics with narrative-driven mystery, this project demonstrates product vision, user journey mapping, and visual design execution.
+This repository serves as the core Game Design Document (GDD) and UI/UX asset library for an 2D pixel art indie game. Blending resource-management mechanics with narrative-driven mystery, this project demonstrates product vision, user journey mapping, and visual design execution.
 
 **Role:** UI/UX Designer & Game Concept Analyst
 **Design Tools:** Figma (Interactive Components, HUD), Krita (2D Pixel Art, Character Assets)

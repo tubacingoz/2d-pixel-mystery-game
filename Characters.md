@@ -25,10 +25,10 @@ This document outlines the backstories, motivations, and player-interaction mech
 **Concept Art & Pixel Designs**
 The following pixel art concepts were developed to establish the visual language of the game universe. These initial character drafts will be assigned to specific NPC roles (e.g., Botanist, Mayor) as the narrative design and dialogue trees evolve.
 
-##  Concept Art & Unassigned Characters
+## Concept Art & Unassigned Characters
 The following pixel art concepts establish the visual language of the game universe. These drafts will be assigned to specific NPC roles as the narrative evolves.
 
-![Char 1](character1.png) ![Char 2](character2.png) ![Char 3](character3.png) ![Char 4](character4.png) 
-![Char 5](character5.png) ![Char 6](character6.png) ![Char 7](character7.png) ![Char 8](character8.png) 
-![Char 9](character9.png) ![Char 10](character10.png) ![Char 11](character11.png) ![Char 12](character12.png) 
-![Char 13](character13.png) ![Char 14](character14.png)
+<img src="character1.png" width="150"> <img src="character2.png" width="150"> <img src="character3.png" width="150"> <img src="character4.png" width="150">
+<img src="character5.png" width="150"> <img src="character6.png" width="150"> <img src="character7.png" width="150"> <img src="character8.png" width="150">
+<img src="character9.png" width="150"> <img src="character10.png" width="150"> <img src="character11.png" width="150"> <img src="character12.png" width="150">
+<img src="character13.png" width="150"> <img src="character14.png" width="150">
